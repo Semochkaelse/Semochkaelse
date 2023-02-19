@@ -5,7 +5,7 @@
 
 <h1 align="center">Contact with me:</h1>
 <p align="center">
-<a href="https://t.me/semochkae" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="@semochkae" height="40" width="40" /></a>
+<a href="https://t.me/semochkae" target="blank"><img align="center" src="https://www.svgrepo.com/download/271091/telegram.svg" alt="@semochkae" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/simon-evseev-1141a5265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Simon Evseev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/semaaevseev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semaaevseev" height="30" width="40" /></a>
 </p>
