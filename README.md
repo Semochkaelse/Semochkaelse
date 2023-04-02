@@ -17,7 +17,7 @@
  
  ```javascript
   "Hello, i'm Simon ",
-  "Write me ❤️"
+  "Write me"
 ```
  </div>
 <h2 align="left">Languages and Tools:</h2>
